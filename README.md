@@ -1,6 +1,6 @@
 # 이력서
 
-웹 개발자가 되고 싶은 김재운입니다.
+백엔드 신입 개발자 김재운입니다.
 
 ## 출처
 - https://github.com/kijepark/one-page-template
