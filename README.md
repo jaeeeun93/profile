@@ -1,6 +1,6 @@
-# 이력서(취준 때)
+# 이력서
 
-백엔드 신입 개발자 김재운입니다.
+WatW 신입 개발자 김재운입니다
 
 ## 출처
 - https://github.com/kijepark/one-page-template
