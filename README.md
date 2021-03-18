@@ -1,6 +1,6 @@
 # 이력서
 
-WatW 신입 개발자 김재운입니다
+WatW 신입 개발자 김재운
 
 ## 출처
 - https://github.com/kijepark/one-page-template
